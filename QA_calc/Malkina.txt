@@ -1,0 +1,18 @@
+Patient	Malkina	ID	02532264820	Machine	TB-118						
+											
+Calculation point		x	iso	cm							
+		y	iso	cm							
+		z	iso	cm							
+											
+Field	Energy	FSX	FSY	EFS	H	DR	EDWF	Weight	MU	"Dose, cGy"	Comment
+T0G190C90W45	15	5.2	4.2		17.22			1	132.3		
+T0G330C0	6	5.4	4		4.54			1	114.6		
+T0G10C0	6	5.2	4		3.29			1	109.9		
+T0G50C0	6	5	4		5.79			1	122.9		
+T0G90C0	6	5.5	4		12.96			1	169.8		
+T0G130C0	15	5.4	4		19.03			1	162.1		
+T0G160C90W45	15	5.2	4.2		18.26			1	153.4		
+											
+								Sum			
+								TPS	651.72		
+								"delta, %"			
