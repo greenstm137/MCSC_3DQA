@@ -1,0 +1,35 @@
+Patient	Maraeva	ID	18415752179	Machine	TB-128
+
+Calculation point		x	iso	cm							
+Breast		y	iso	cm							
+		z	iso	cm							
+
+Field	Energy	FSX	FSY	EFS	H	DR	EDWF	Weight	MU	"Dose, cGy"	Comment
+V_T0G310C0	6	12.9	18.2	15.0984	6.51	0.926602	1	1	144.1	133.523	
+T0G325C0	6	10.5	18.2	13.3171	4.59	0.966356	1	1	13.8	13.3357	
+Ln_T0G0C0	15	16.6	5.7	8.4861	2.42	1.08773	1	0	277.4	0	Calculation point has no weight
+T0G110C0*	6	10.6	18.2	13.3972	3.44	0.995055	1	1	14.6	14.5278	
+T0G130C0	6	9.4	17.2	12.1564	10.84	0.790279	1	1	16.4	12.9606	
+V_T0G130C0	6	13	18.2	15.1667	10.84	0.814939	1	1	134.3	109.446	
+
+
+								Sum	283.794
+								TPS	263.49
+								delta, %	-7.70568
+Calculation point		x	iso	cm							
+Neck		y	iso	cm							
+		z	iso	cm							
+
+
+Field	Energy	FSX	FSY	EFS	H	DR	EDWF	Weight	MU	"Dose, cGy"	Comment
+V_T0G310C0	6	12.9	18.2	15.0984	6.51	0.926602	1	0	144.1	0	Calculation point has no weight
+T0G325C0	6	10.5	18.2	13.3171	4.59	0.966356	1	0	13.8	0	Calculation point has no weight
+Ln_T0G0C0	15	16.6	5.7	8.4861	4.29	1.03824	1	1	277.4	288.007	
+T0G110C0*	6	10.6	18.2	13.3972	3.44	0.995055	1	0	14.6	0	Calculation point has no weight
+T0G130C0	6	9.4	17.2	12.1564	10.84	0.790279	1	0	16.4	0	Calculation point has no weight
+V_T0G130C0	6	13	18.2	15.1667	10.84	0.814939	1	0	134.3	0	Calculation point has no weight
+
+
+								Sum	288.007
+								TPS	280.05
+								delta, %	-2.84123

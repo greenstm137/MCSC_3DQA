@@ -18,11 +18,11 @@
     <ClCompile Include="MCSC_3DQA.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="dataReader.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="dataReader.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClInclude>
     <ClInclude Include="dataReader.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>

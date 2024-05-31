@@ -34,6 +34,10 @@ public:
 class QATable
 {
 public:
+	QATable() {
+		CalcPointNumber = 0;
+		secondpointnumber = 0;
+	}
 	void Load(const char* fname);
 	void Clear();
 	void Dump();

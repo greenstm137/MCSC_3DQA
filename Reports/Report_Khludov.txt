@@ -1,0 +1,15 @@
+Patient	Khludov	ID	_02005664495	Machine	TB-118
+
+Calculation point		x	iso	cm							
+		y	iso	cm							
+		z	iso	cm							
+
+Field	Energy	FSX	FSY	EFS	H	DR	EDWF	Weight	MU	"Dose, cGy"	Comment
+T0G90C35	6	16.7	18.9	17.732	8.66	0.886431	1	1	167.8	148.743	
+T0G270C325	6	16.9	19.4	18.0639	10.21	0.849414	1	1	162.4	137.945	
+T0G270C0*	6	14.7	12	13.2135	10.21	0.81683	1	1	15.2	12.4158	
+
+
+								Sum	299.104
+								TPS	294.4
+								delta, %	-1.59774

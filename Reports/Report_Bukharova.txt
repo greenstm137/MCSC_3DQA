@@ -1,0 +1,16 @@
+Patient	Bukharova	ID	_04707351751	Machine	TB-118
+
+Calculation point		x	iso	cm							
+		y	iso	cm							
+		z	iso	cm							
+
+Field	Energy	FSX	FSY	EFS	H	DR	EDWF	Weight	MU	"Dose, cGy"	Comment
+V_T0G310C90W15	6	20.8	12.4	15.5373	8.81	0.869323	0.871197	1	165	124.963	
+T0G310C5	6	9.4	18.9	12.5555	8.81	0.847936	1	1	14.2	12.0407	
+T0G130C350	6	6.9	18.9	10.1093	5.75	0.914751	1	1	18.4	16.8314	
+V_T0G130C0	6	13.4	19.9	16.0156	5.75	0.95141	1	1	131.1	124.73	
+
+
+								Sum	278.565
+								TPS	270.61
+								delta, %	-2.93964

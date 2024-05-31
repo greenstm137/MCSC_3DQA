@@ -1,0 +1,17 @@
+Patient	Ilyasova	ID	18670656410	Machine	TB-118
+
+Calculation point		x	iso	cm							
+		y	iso	cm							
+		z	iso	cm							
+
+Field	Energy	FSX	FSY	EFS	H	DR	EDWF	Weight	MU	"Dose, cGy"	Comment
+V_T0G310C15	6	18.5	19.9	19.1745	8.71	0.893949	1	1	142.6	127.477	
+T0G310C15	6	12.7	18.7	15.1268	8.71	0.869379	1	1	17.4	15.1272	
+T0G310C15*	6	9.3	17.7	12.1933	8.71	0.847707	1	0	13.6	0	Calculation point has no weight
+T0G120C345	6	17.1	17.6	17.3464	7.43	0.916085	1	1	20.4	18.6881	
+V_T0G130C345	6	18.7	19.4	19.0436	7.57	0.921897	1	1	117.8	108.6	
+
+
+								Sum	269.892
+								TPS	266.43
+								delta, %	-1.2994

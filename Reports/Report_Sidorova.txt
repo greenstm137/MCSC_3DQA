@@ -1,0 +1,17 @@
+Patient	Sidorova	ID	_02352819231	Machine	TB-118
+
+Calculation point		x	iso	cm							
+		y	iso	cm							
+		z	iso	cm							
+
+Field	Energy	FSX	FSY	EFS	H	DR	EDWF	Weight	MU	"Dose, cGy"	Comment
+V_T0G50C350	6	14.9	20.4	17.2215	9	0.874866	1	1	129	112.858	
+T0G50C350*	6	8.9	10	9.41799	9	0.813143	1	0	11.7	0	Calculation point has no weight
+T0G50C350	6	10.2	20.4	13.6	9	0.8516	1	1	17.2	14.6475	
+T0G40C350	6	12.5	20.4	15.5015	7.51	0.903983	1	1	23.2	20.9724	
+V_T0G230C10	6	16.5	19.9	18.0412	7.4	0.920627	1	1	135.3	124.561	
+
+
+								Sum	273.038
+								TPS	264.97
+								delta, %	-3.04504

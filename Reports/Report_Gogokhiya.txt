@@ -1,0 +1,15 @@
+Patient	Gogokhiya	ID	17102254517	Machine	TB-118
+
+Calculation point		x	iso	cm							
+		y	iso	cm							
+		z	iso	cm							
+
+Field	Energy	FSX	FSY	EFS	H	DR	EDWF	Weight	MU	"Dose, cGy"	Comment
+T0G181C0	15	9.1	7	7.91304	7.18	0.948541	1	1	258.7	245.388	
+T0G245C90	10	7.9	8.9	8.37024	13.12	0.735238	1	1	471	346.297	
+T0G115C90	10	7.9	9.7	8.70795	13.81	0.721293	1	1	396.9	286.281	
+
+
+								Sum	877.966
+								TPS	787.5
+								delta, %	-11.4877

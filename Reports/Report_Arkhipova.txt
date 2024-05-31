@@ -1,0 +1,17 @@
+Patient	Arkhipova	ID	_06110725307	Machine	TB-128
+
+Calculation point		x	iso	cm							
+Breast		y	iso	cm							
+		z	iso	cm							
+
+Field	Energy	FSX	FSY	EFS	H	DR	EDWF	Weight	MU	"Dose, cGy"	Comment
+V_T0G315C0	6	13.5	20.4	16.2478	5.35	0.962464	1	1	136.4	131.28	
+T0G315C5	6	9.4	19.4	12.6639	5.35	0.942681	1	1	13.5	12.7262	
+T0G320C0	6	11.2	18.9	14.0651	4.91	0.963905	1	1	13.2	12.7235	
+T0G130C350	6	8.9	20.4	12.3932	10.41	0.804112	1	1	14.5	11.6596	
+V_T0G135C0	6	13.9	20.4	16.5341	12.97	0.769674	1	1	143.8	110.679	
+
+
+								Sum	279.069
+								TPS	258.75
+								delta, %	-7.85261

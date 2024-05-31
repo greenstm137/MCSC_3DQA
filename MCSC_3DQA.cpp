@@ -4,7 +4,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include "dataReader.h"
+#include "C:\GitHub\MCSC_3DQA\dataReader.h"
 #include <filesystem>
 #include <ctype.h>
 
